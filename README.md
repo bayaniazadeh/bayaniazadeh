@@ -2,6 +2,7 @@
 
 🎓 MSc graduate in Computational Medicine & Medical Informatics.   
 🔭 Currently working on several Large Language Model (LLM) projects and data analysis/data science in health sciences at [LabTNS](https://labtns.ca/fr/) and centre de recherche en santé publique [CReSP](https://www.cresp.ca/fr/).
+
 🌱 Passionate about applying artificial intelligence to real-world problems in healthcare, from clinical data analysis to decision support.
 
 <!--
